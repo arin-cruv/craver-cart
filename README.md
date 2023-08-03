@@ -1,5 +1,2 @@
-# image_resize
 
-## craver-cart image
-
-![cartscreen](https://github.com/arin-cruv/craver-cart/assets/141152925/77bf2ff0-d37d-444a-ab50-ad720171b14a | width=100)
+![cart](https://github.com/arin-cruv/craver-cart/assets/141152925/9eafb0ab-e88d-4f6b-a54c-861079416e16)
